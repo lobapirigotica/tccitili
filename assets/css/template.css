@@ -1,0 +1,138 @@
+
+img {
+	height: auto;
+	width: 80%;
+	margin-top: 15px;
+}
+.imgres{
+
+	width: 90%;
+	margin-top: 5px;
+	margin-left: 5px;
+	border-radius: 6px;
+}
+.textcover{
+	font-size: 18px;
+}
+
+.photo3x4{
+	padding: 0px;
+}
+.title{
+	height: 35px;
+	text-align: left;
+	font-size: 23px;
+	color: #286090;
+	font-weight: bold;
+}
+.subtitle{
+	padding-top: 5px;
+}
+.resume{
+	height: 100px;
+	border: solid 3px;
+	margin-bottom: 5px;
+	border-radius: 6px;
+	border-color: grey;
+}
+.gal { 
+	height:500px;
+}
+.sgalitem{
+	border-bottom: solid 3px;
+}
+.widget {
+
+}
+.notread {
+	background-color: #E8E8E8;
+	border-radius: 6px;
+
+
+}
+.searchresults{
+	border: solid 1px;
+	border-radius: 6px;
+}
+.linhadelete{
+	text-decoration: none;
+	color: black;
+}
+.linhadelete:hover {
+	background-color: red;
+	color: white;
+	border-radius: 6px;
+}
+.linhamessages:hover{
+/*	background-color: #2098D1; */
+	background-color: #286090;
+	color: white;
+	border-radius: 6px;
+
+}
+.linhaexp{
+	font-size: 11px;
+}
+.skills{
+	font-size: 20px;
+	color: #286090;
+}
+
+.btn-message {
+	text-decoration: none;
+	color: black;
+}
+.btn-message:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.head-grid1{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: solid 1px;
+	border-radius: 6px;
+
+}
+
+
+.head-grid{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-bottom: 2px;
+
+}
+.line-grid{
+	border-bottom: solid 1px;
+}
+.dashboard{
+	background-color: #286090;
+	color: white;
+	border-radius: 6px;
+	margin-bottom: 5px;
+}
+.visits{
+	border-radius: 6px;
+	background-color: #286090;
+	border: solid 1px;
+	color: white;	
+}
+
+.modulescompleted{
+	border-radius: 6px;
+	background-color: #286090;
+	border: solid 1px;
+	color: white;
+}
+.sugestaoitem {
+	height:40px;
+	line-height: 40px;
+}
+.post_area {
+	border-bottom:1px solid #CCC;
+}
+.post_area textarea {
+	height:100px;
+}
+.postitem {
+	border-bottom
